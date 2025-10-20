@@ -4,6 +4,8 @@ local Knit = require(Packages.Knit)
 
 Knit.AddServices(script:WaitForChild("Services"))
 
-Knit.Start():andThen(function()
-    print("[Server] Knit started")
-end):catch(warn)
+Knit.Start()
+	:andThen(function()
+		print("[Server] Knit started")
+	end)
+	:catch(warn)

@@ -1,4 +1,3 @@
-* text=auto
-*.lua text eol=lf
-*.luau text eol=lf
-*.rbxlx text eol=lf
+* text=auto eol=lf
+*.rbxl* binary
+*.rbxm* binary
