@@ -1,0 +1,4 @@
+* text=auto
+*.lua text eol=lf
+*.luau text eol=lf
+*.rbxlx text eol=lf
