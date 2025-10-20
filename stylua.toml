@@ -3,7 +3,4 @@ line_endings = "Windows"
 indent_type = "Tabs"
 indent_width = 4
 quote_style = "AutoPreferDouble"
-ECHO is on.
-[includes]
-"src/**/*.lua"
-"src/**/*.luau"
+include = ["src/**/*.lua", "src/**/*.luau"]
