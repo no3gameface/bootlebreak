@@ -1,0 +1,8 @@
+# Roblox/Rojo
+sourcemap.json
+Packages/
+*.rbxl
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxm.lock
+*.rbxmx.lock
